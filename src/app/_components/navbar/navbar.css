@@ -6,6 +6,10 @@
   padding-left: 12px;
 }
 
+.navbar-logo {
+  cursor: pointer;
+}
+
 .navbar-logo img {
   height: 40px;
 }
